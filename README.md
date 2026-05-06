@@ -54,7 +54,7 @@ data-analytics-portfolio/
 │   └── superstore.db
 ├── day-02-sql-aggregations/
 ├── day-03-sql-joins/
-└── ...
+└── ....
 
 
 
