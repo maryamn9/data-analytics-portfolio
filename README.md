@@ -2,14 +2,13 @@
 
 > **6 May 2026 → 4 June 2026** · One commit every single day · Goal: land a UK data analyst job
 
----
 
 ## The challenge
 
 I'm an MSc Applied CS & AI graduate building job-ready data analytics skills in 30 days.
 Every day I learn, build something, and push it here. No skipping. Every day counts.
 
----
+
 
 ## Progress
 
@@ -46,7 +45,7 @@ Every day I learn, build something, and push it here. No skipping. Every day cou
 | 29 | 3 Jun | Interview prep — SQL + case studies | — | 📅 |
 | 30 | 4 Jun | Reflect + plan the next 30 days | — | 📅 |
 
----
+
 
 ## Folder structure
 data-analytics-portfolio/
@@ -57,13 +56,12 @@ data-analytics-portfolio/
 ├── day-03-sql-joins/
 └── ...
 
----
+
 
 ## Tools
 
 `SQL` `Python` `Pandas` `Matplotlib` `Seaborn` `Power BI` `Tableau` `Excel` `Git`
 
----
 
 ## About me
 
