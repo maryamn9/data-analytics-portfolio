@@ -1,6 +1,6 @@
 # 30-Day Data Analytics Challenge
 
-> **6 May 2026 → 4 June 2026** · One commit every single day · Goal: land a UK data analyst job
+> **6 May 2026 → 4 June 2026** · One commit every single day · Goal: land a UK Data Analyst job
 
 
 ## The challenge
