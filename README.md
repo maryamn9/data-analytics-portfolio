@@ -16,7 +16,7 @@ Every day I learn, build something, and push it here. No skipping. Every day cou
 |---|------|-------|-------|--------|
 | 01 | 6 May | SQL basics — SELECT, WHERE, ORDER BY, LIMIT | SQLite | ✅ |
 | 02 | 7 May | SQL aggregations — COUNT, SUM, GROUP BY, HAVING | SQLite | ✅ |
-| 03 | 8 May | SQL JOINs — INNER, LEFT, RIGHT | SQLite | 📅 |
+| 03 | 8 May | SQL JOINs — INNER, LEFT, RIGHT | SQLite | ✅ |
 | 04 | 9 May | Subqueries + CTEs | SQLite | 📅 |
 | 05 | 10 May | Window functions — RANK, ROW_NUMBER, LAG, LEAD | SQLite | 📅 |
 | 06 | 11 May | SQL practice marathon — HackerRank + StrataScratch | SQLite | 📅 |
