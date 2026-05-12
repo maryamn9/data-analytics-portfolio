@@ -19,7 +19,7 @@ Every day I learn, build something, and push it here. No skipping. Every day cou
 | 03 | 8 May | SQL JOINs — INNER, LEFT, RIGHT | SQLite | ✅ |
 | 04 | 9 May | Subqueries + CTEs | SQLite | ✅ |
 | 05 | 10 May | Window functions — RANK, ROW_NUMBER, LAG, LEAD | SQLite | ✅ |
-| 06 | 11 May | SQL practice marathon — HackerRank + StrataScratch | SQLite | 📅 |
+| 06 | 11 May | SQL practice marathon — HackerRank | SQLite | ✅ |
 | 07 | 12 May | SQL mini project — UK open dataset | SQLite | 📅 |
 | 08 | 13 May | Pandas — data loading and inspection | Python | 📅 |
 | 09 | 14 May | Data cleaning — nulls, duplicates, dtypes | Python | 📅 |
@@ -68,4 +68,4 @@ data-analytics-portfolio/
 MSc Applied CS & AI Graduate based in the UK.
 Open to data analyst, junior data scientist, and BI analyst roles.
 
-[LinkedIn](https://www.linkedin.com/in/maryamnaveen) · [Substack](https://substack.com/@mlwithmaryam) · [GitHub](https://github.com/maryamn9)
+[LinkedIn](https://www.linkedin.com/in/maryamnaveen) · [Substack](https://substack.com/@mlwithmaryam) · [GitHub](https://github.com/maryamn9) . [HackerRank](https://www.hackerrank.com/profile/maryamnaveen03)
