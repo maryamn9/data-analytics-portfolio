@@ -20,7 +20,7 @@ Every day I learn, build something, and push it here. No skipping. Every day cou
 | 04 | 9 May | Subqueries + CTEs | SQLite | ✅ |
 | 05 | 10 May | Window functions — RANK, ROW_NUMBER, LAG, LEAD | SQLite | ✅ |
 | 06 | 11 May | SQL practice marathon — HackerRank | SQLite | ✅ |
-| 07 | 12 May | SQL mini project — UK open dataset | SQLite | 📅 |
+| 07 | 12 May | SQL mini project — UK open dataset | SQLite | ✅ |
 | 08 | 13 May | Pandas — data loading and inspection | Python | 📅 |
 | 09 | 14 May | Data cleaning — nulls, duplicates, dtypes | Python | 📅 |
 | 10 | 15 May | Exploratory data analysis (EDA) | Python | 📅 |
