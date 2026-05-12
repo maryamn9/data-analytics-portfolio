@@ -18,7 +18,7 @@ Every day I learn, build something, and push it here. No skipping. Every day cou
 | 02 | 7 May | SQL aggregations — COUNT, SUM, GROUP BY, HAVING | SQLite | ✅ |
 | 03 | 8 May | SQL JOINs — INNER, LEFT, RIGHT | SQLite | ✅ |
 | 04 | 9 May | Subqueries + CTEs | SQLite | ✅ |
-| 05 | 10 May | Window functions — RANK, ROW_NUMBER, LAG, LEAD | SQLite | 📅 |
+| 05 | 10 May | Window functions — RANK, ROW_NUMBER, LAG, LEAD | SQLite | ✅ |
 | 06 | 11 May | SQL practice marathon — HackerRank + StrataScratch | SQLite | 📅 |
 | 07 | 12 May | SQL mini project — UK open dataset | SQLite | 📅 |
 | 08 | 13 May | Pandas — data loading and inspection | Python | 📅 |
