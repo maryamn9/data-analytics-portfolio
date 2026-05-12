@@ -68,4 +68,4 @@ data-analytics-portfolio/
 MSc Applied CS & AI Graduate based in the UK.
 Open to data analyst, junior data scientist, and BI analyst roles.
 
-[LinkedIn](https://www.linkedin.com/in/maryamnaveen) · [Substack](https://substack.com/@mlwithmaryam) · [GitHub](https://github.com/maryamn9) . [HackerRank Profile ⭐](https://www.hackerrank.com/profile/maryamnaveen03)
+[LinkedIn](https://www.linkedin.com/in/maryamnaveen) · [Substack](https://substack.com/@mlwithmaryam) · [GitHub](https://github.com/maryamn9) . [HackerRank](https://www.hackerrank.com/profile/maryamnaveen03)
