@@ -22,7 +22,7 @@ Every day I learn, build something, and push it here. No skipping. Every day cou
 | 06 | 11 May | SQL practice marathon — HackerRank | SQLite | ✅ |
 | 07 | 12 May | SQL mini project — UK open dataset | SQLite | ✅ |
 | 08 | 13 May | Pandas — data loading and inspection | Python | ✅ |
-| 09 | 14 May | Data cleaning — nulls, duplicates, dtypes | Python | 📅 |
+| 09 | 14 May | Data cleaning — nulls, duplicates, dtypes | Python | ✅ |
 | 10 | 15 May | Exploratory data analysis (EDA) | Python | 📅 |
 | 11 | 16 May | Statistics for analytics — correlation, distributions | Python | 📅 |
 | 12 | 17 May | Matplotlib + Seaborn visualisations | Python | 📅 |
