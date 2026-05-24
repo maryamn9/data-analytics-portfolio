@@ -27,8 +27,8 @@ Every day I learn, build something, and push it here. No skipping. Every day cou
 | 11 | 16 May | Statistics for analytics — correlation, distributions | Python | ✅ |
 | 12 | 17 May | Matplotlib + Seaborn visualisations | Python | ✅ |
 | 13 | 18 May | Full EDA project | Python | ✅ |
-| 14 | 19 May | Polish + push EDA project to GitHub | Python | 📅 |
-| 15 | 20 May | Power BI — setup + first dashboard | Power BI | 📅 |
+| 14 | 19 May | Polish + push EDA project to GitHub | Python | ✅ |
+| 15 | 20 May | Power BI — setup + first dashboard | Power BI | ✅  |
 | 16 | 21 May | Power BI DAX basics | Power BI | 📅 |
 | 17 | 22 May | Power BI portfolio dashboard | Power BI | 📅 |
 | 18 | 23 May | Tableau Public — setup + first viz | Tableau | 📅 |
