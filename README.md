@@ -30,7 +30,7 @@ Every day I learn, build something, and push it here. No skipping. Every day cou
 | 14 | 19 May | Polish + push EDA project to GitHub | Python | ✅ |
 | 15 | 20 May | Power BI — setup + first dashboard | Power BI | ✅  |
 | 16 | 21 May | Power BI DAX basics | Power BI | ✅  |
-| 17 | 22 May | Power BI portfolio dashboard | Power BI | 📅 |
+| 17 | 22 May | Power BI portfolio dashboard | Power BI | ✅ |
 | 18 | 23 May | Tableau Public — setup + first viz | Tableau | 📅 |
 | 19 | 24 May | Tableau — calculated fields + storytelling | Tableau | 📅 |
 | 20 | 25 May | Excel — pivot tables + Power Query | Excel | 📅 |
