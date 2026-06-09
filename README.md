@@ -33,7 +33,7 @@ Every day I learn, build something, and push it here. No skipping. Every day cou
 | 17 | 22 May | Power BI portfolio dashboard | Power BI | ✅ |
 | 18 | 23 May | Tableau Public — setup + first viz | Tableau | ✅ |
 | 19 | 24 May | Tableau — calculated fields + storytelling | Tableau | ✅  |
-| 20 | 25 May | Excel — pivot tables + Power Query | Excel | 📅 |
+| 20 | 25 May | Excel — pivot tables + Power Query | Excel | ✅ |
 | 21 | 26 May | BI tools review + LinkedIn update | All | 📅 |
 | 22 | 27 May | Plan two portfolio projects | All | 📅 |
 | 23 | 28 May | Portfolio project 1 — build | Python + SQL | 📅 |
